@@ -18,6 +18,8 @@ This is the REST API code for Enterprise Programming unit.
    - POST: http://localhost:8080/Films-REST/FilmREST (Content-Type headers: text/plain, application/xml, application/json)
    - PUT: http://localhost:8080/Films-REST/FilmREST (Content-Type headers: text/plain, application/xml, application/json)
    - DELETE: http://localhost:8080/Films-REST/FilmREST (Content-Type headers: text/plain, application/xml, application/json)
+## Demo on usage
+- https://www.youtube.com/watch?v=p876ZAIqQqc&feature=youtu.be
 
 ## DOWNLOADS
 - [Download Eclipse](https://www.eclipse.org/downloads/) and make sure to tick Eclipse Enterprise
